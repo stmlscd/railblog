@@ -1,0 +1,2 @@
+class Arricle < ApplicationRecord
+end
